@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+huggingface_hub
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+rank_bm25
